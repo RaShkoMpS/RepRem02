@@ -1,0 +1,43 @@
+h1{
+    text-align: center;
+}
+header{
+    background-color: black;
+    color:aliceblue;
+    width: 100%;
+    padding: 10px;
+    
+}
+.nav{
+    background-color:grey; 
+    color: aliceblue;
+    text-decoration: none;
+    font-size: 1.5vw;
+    padding: 0.3%;
+    border-radius: 5px;
+    text-decoration:dashed;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+img{
+    align-content: center;
+    width: 30%;
+    height: 30% ;
+    margin-left: 20px ;
+
+}
+
+footer{
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+    margin-top: 10px;
+    width: 100%;
+
+    position: fixed;
+    left: 0;
+    bottom: 0 ;
+    padding: 20px;
+    height: 50px;
+    margin-top: 0;
+
+}
